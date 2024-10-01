@@ -15,7 +15,7 @@
 ## 🚀 Follow Accounts:
 
 - **Linkedin:** [Check it out!](https://www.linkedin.com/in/kemaldoğuoktay/)
-- **Kaggle:** [Check it out!](https://www.kaggle.com/code/kemaldouoktay)
+- **Kaggle:** [Check it out!](https://www.kaggle.com/kemaldouoktay)
 - **Tableau:** [Check it out!](https://public.tableau.com/app/profile/kemal.do.u/vizzes)
 - **Github:** [Check it out!](https://github.com/kemaldoguoktay/kemaldoguoktay/)
 
