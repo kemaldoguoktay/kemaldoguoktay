@@ -7,7 +7,7 @@
 ## ⚡ Technical Skills:
 - **Programming Languages:** Python, R, SQL, Julia  
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Visualization:** Tableau, Matplotlib, Seaborn  
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn 
 - **Database Management:** MySQL  
 - **Big Data Tools:** Airflow, DataHub  
